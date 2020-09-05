@@ -1,1 +1,4 @@
 # work-day-scheduler
+This project was to create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+
+I was unable to loop through the time-blocks and add a class to them, so that their appearance can change according to the current time and their text content. I was also unable to have the local storage print out the saved values of the keys when the page was refreshed. I needed more help with this homework but with the holiday weekend I was unable to. I will continue to work on this homework and try to solve my difficulties so that I can resubmit this homework.
